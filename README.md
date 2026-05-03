@@ -122,8 +122,8 @@ What I care about most:
 ## GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=boboaungdev&show_icons=true&hide_border=true&count_private=true&bg_color=0b1220&title_color=22c55e&text_color=e5e7eb&icon_color=14b8a6" alt="GitHub stats" />
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=boboaungdev&layout=compact&hide_border=true&bg_color=0b1220&title_color=22c55e&text_color=e5e7eb" alt="Top languages" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=boboaungdev&show_icons=true&hide_border=true&count_private=true&bg_color=0b1220&title_color=22c55e&text_color=e5e7eb&icon_color=14b8a6" alt="GitHub stats" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=boboaungdev&layout=compact&hide_border=true&bg_color=0b1220&title_color=22c55e&text_color=e5e7eb" alt="Top languages" />
 </p>
 
 ---
