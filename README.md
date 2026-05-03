@@ -22,7 +22,6 @@ Full-stack developer building product-focused software with strong backend found
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=boboaungdev&label=Profile%20views&color=166534&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Currently%20building-StratArena-14532d?style=flat" alt="Currently building StratArena" />
   <img src="https://img.shields.io/badge/Focus-Real--time%20Products-0f766e?style=flat" alt="Focus real-time products" />
 </p>
